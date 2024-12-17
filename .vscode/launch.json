@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "AjavLauncher_3f7ea750"
+        },
+        {
+            "type": "java",
+            "name": "Simulator",
+            "request": "launch",
+            "mainClass": "Simulator",
+            "projectName": "AjavLauncher_3f7ea750",
+            "args": ["C:\\Users\\Canodis\\Desktop\\AjavLauncher\\src\\scenerio.txt"]
+        }
+    ]
+}
